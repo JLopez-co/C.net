@@ -1,0 +1,6 @@
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.exe.config
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.exe
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.pdb
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Trinagulo\obj\Debug\Trinagulo.exe
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Trinagulo\obj\Debug\Trinagulo.pdb
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Trinagulo\obj\Debug\Trinagulo.csprojResolveAssemblyReference.cache

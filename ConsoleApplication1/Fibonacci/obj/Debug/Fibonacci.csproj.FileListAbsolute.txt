@@ -1,0 +1,6 @@
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.exe.config
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.exe
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.pdb
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\Fibonacci\obj\Debug\Fibonacci.exe
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\Fibonacci\obj\Debug\Fibonacci.pdb

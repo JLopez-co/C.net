@@ -1,0 +1,6 @@
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\Nomina\bin\Debug\Nomina.exe
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\Nomina\bin\Debug\Nomina.pdb
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\Nomina\obj\Debug\Nomina.csprojResolveAssemblyReference.cache
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\Nomina\obj\Debug\Nomina.exe
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\Nomina\obj\Debug\Nomina.pdb

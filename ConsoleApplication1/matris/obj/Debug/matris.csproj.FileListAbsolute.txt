@@ -1,0 +1,6 @@
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\matris\bin\Debug\matris.exe.config
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\matris\bin\Debug\matris.exe
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\matris\bin\Debug\matris.pdb
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\matris\obj\Debug\matris.exe
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\matris\obj\Debug\matris.pdb
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\matris\obj\Debug\matris.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\kiradoz\documents\visual studio 2015\Projects\Triqui\Triqui\bin\Debug\Triqui.exe.config
+c:\users\kiradoz\documents\visual studio 2015\Projects\Triqui\Triqui\bin\Debug\Triqui.exe
+c:\users\kiradoz\documents\visual studio 2015\Projects\Triqui\Triqui\bin\Debug\Triqui.pdb
+c:\users\kiradoz\documents\visual studio 2015\Projects\Triqui\Triqui\obj\Debug\Triqui.csprojResolveAssemblyReference.cache
+c:\users\kiradoz\documents\visual studio 2015\Projects\Triqui\Triqui\obj\Debug\Triqui.exe
+c:\users\kiradoz\documents\visual studio 2015\Projects\Triqui\Triqui\obj\Debug\Triqui.pdb

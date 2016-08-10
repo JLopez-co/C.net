@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{B28A9222-3BA9-46B5-AD60-1C8DC795FE26}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Nomina</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Algoritmos\Algoritmos.sln" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1.sln" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.vshost.exe" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\Edad.csproj" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb" />
+    <Content Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\Edad.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.exe" />
+    <Content Include="ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.pdb" />
+    <Content Include="ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.vshost.exe" />
+    <Content Include="ConsoleApplication1\Fibonacci\Fibonacci.csproj" />
+    <Content Include="ConsoleApplication1\Fibonacci\obj\Debug\Fibonacci.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\Fibonacci\obj\Debug\Fibonacci.exe" />
+    <Content Include="ConsoleApplication1\Fibonacci\obj\Debug\Fibonacci.pdb" />
+    <Content Include="ConsoleApplication1\matris\bin\Debug\matris.exe" />
+    <Content Include="ConsoleApplication1\matris\bin\Debug\matris.pdb" />
+    <Content Include="ConsoleApplication1\matris\bin\Debug\matris.vshost.exe" />
+    <Content Include="ConsoleApplication1\matris\matris.csproj" />
+    <Content Include="ConsoleApplication1\matris\obj\Debug\matris.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\matris\obj\Debug\matris.exe" />
+    <Content Include="ConsoleApplication1\matris\obj\Debug\matris.pdb" />
+    <Content Include="ConsoleApplication1\nombre\bin\Debug\nombre.exe" />
+    <Content Include="ConsoleApplication1\nombre\bin\Debug\nombre.pdb" />
+    <Content Include="ConsoleApplication1\nombre\bin\Debug\nombre.vshost.exe" />
+    <Content Include="ConsoleApplication1\nombre\nombre.csproj" />
+    <Content Include="ConsoleApplication1\nombre\obj\Debug\nombre.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\nombre\obj\Debug\nombre.exe" />
+    <Content Include="ConsoleApplication1\nombre\obj\Debug\nombre.pdb" />
+    <Content Include="ConsoleApplication1\Notas\bin\Debug\Notas.exe" />
+    <Content Include="ConsoleApplication1\Notas\bin\Debug\Notas.pdb" />
+    <Content Include="ConsoleApplication1\Notas\bin\Debug\Notas.vshost.exe" />
+    <Content Include="ConsoleApplication1\Notas\Notas.csproj" />
+    <Content Include="ConsoleApplication1\Notas\obj\Debug\Notas.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\Notas\obj\Debug\Notas.exe" />
+    <Content Include="ConsoleApplication1\Notas\obj\Debug\Notas.pdb" />
+    <Content Include="ConsoleApplication1\operadores\bin\Debug\operadores.exe" />
+    <Content Include="ConsoleApplication1\operadores\bin\Debug\operadores.pdb" />
+    <Content Include="ConsoleApplication1\operadores\bin\Debug\operadores.vshost.exe" />
+    <Content Include="ConsoleApplication1\operadores\obj\Debug\operadores.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\operadores\obj\Debug\operadores.exe" />
+    <Content Include="ConsoleApplication1\operadores\obj\Debug\operadores.pdb" />
+    <Content Include="ConsoleApplication1\operadores\Operadores.csproj" />
+    <Content Include="ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.exe" />
+    <Content Include="ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.pdb" />
+    <Content Include="ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.vshost.exe" />
+    <Content Include="ConsoleApplication1\Trinagulo\obj\Debug\Trinagulo.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\Trinagulo\obj\Debug\Trinagulo.exe" />
+    <Content Include="ConsoleApplication1\Trinagulo\obj\Debug\Trinagulo.pdb" />
+    <Content Include="ConsoleApplication1\Trinagulo\Trinagulo.csproj" />
+    <Content Include="ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.exe" />
+    <Content Include="ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.pdb" />
+    <Content Include="ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.vshost.exe" />
+    <Content Include="ConsoleApplication1\VectoresMatrices\obj\Debug\VectoresMatrices.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApplication1\VectoresMatrices\obj\Debug\VectoresMatrices.exe" />
+    <Content Include="ConsoleApplication1\VectoresMatrices\obj\Debug\VectoresMatrices.pdb" />
+    <Content Include="ConsoleApplication1\VectoresMatrices\VectoresMatrices.csproj" />
+    <Content Include="Poo\Poo.sln" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ConsoleApplication1\ConsoleApplication1\App.config" />
+    <None Include="ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config" />
+    <None Include="ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.vshost.exe.config" />
+    <None Include="ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\Edad.csprojResolveAssemblyReference.cache" />
+    <None Include="ConsoleApplication1\Fibonacci\App.config" />
+    <None Include="ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.exe.config" />
+    <None Include="ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.vshost.exe.config" />
+    <None Include="ConsoleApplication1\Fibonacci\bin\Debug\Fibonacci.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\Fibonacci\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache" />
+    <None Include="ConsoleApplication1\matris\App.config" />
+    <None Include="ConsoleApplication1\matris\bin\Debug\matris.exe.config" />
+    <None Include="ConsoleApplication1\matris\bin\Debug\matris.vshost.exe.config" />
+    <None Include="ConsoleApplication1\matris\bin\Debug\matris.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\matris\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\matris\obj\Debug\matris.csprojResolveAssemblyReference.cache" />
+    <None Include="ConsoleApplication1\nombre\App.config" />
+    <None Include="ConsoleApplication1\nombre\bin\Debug\nombre.exe.config" />
+    <None Include="ConsoleApplication1\nombre\bin\Debug\nombre.vshost.exe.config" />
+    <None Include="ConsoleApplication1\nombre\bin\Debug\nombre.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\nombre\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\Notas\App.config" />
+    <None Include="ConsoleApplication1\Notas\bin\Debug\Notas.exe.config" />
+    <None Include="ConsoleApplication1\Notas\bin\Debug\Notas.vshost.exe.config" />
+    <None Include="ConsoleApplication1\Notas\bin\Debug\Notas.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\Notas\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\Notas\obj\Debug\Notas.csprojResolveAssemblyReference.cache" />
+    <None Include="ConsoleApplication1\operadores\App.config" />
+    <None Include="ConsoleApplication1\operadores\bin\Debug\operadores.exe.config" />
+    <None Include="ConsoleApplication1\operadores\bin\Debug\operadores.vshost.exe.config" />
+    <None Include="ConsoleApplication1\operadores\bin\Debug\operadores.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\operadores\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\Trinagulo\App.config" />
+    <None Include="ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.exe.config" />
+    <None Include="ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.vshost.exe.config" />
+    <None Include="ConsoleApplication1\Trinagulo\bin\Debug\Trinagulo.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\Trinagulo\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\Trinagulo\obj\Debug\Trinagulo.csprojResolveAssemblyReference.cache" />
+    <None Include="ConsoleApplication1\VectoresMatrices\App.config" />
+    <None Include="ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.exe.config" />
+    <None Include="ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.vshost.exe.config" />
+    <None Include="ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.vshost.exe.manifest" />
+    <None Include="ConsoleApplication1\VectoresMatrices\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="ConsoleApplication1\VectoresMatrices\obj\Debug\VectoresMatrices.csprojResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\ConsoleApplication1\Program.cs" />
+    <Compile Include="ConsoleApplication1\ConsoleApplication1\Properties\AssemblyInfo.cs" />
+    <Compile Include="ConsoleApplication1\Fibonacci\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\Fibonacci\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\Fibonacci\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\Fibonacci\Program.cs" />
+    <Compile Include="ConsoleApplication1\Fibonacci\Properties\AssemblyInfo.cs" />
+    <Compile Include="ConsoleApplication1\matris\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\matris\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\matris\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\matris\Program.cs" />
+    <Compile Include="ConsoleApplication1\matris\Properties\AssemblyInfo.cs" />
+    <Compile Include="ConsoleApplication1\nombre\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\nombre\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\nombre\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\nombre\Program.cs" />
+    <Compile Include="ConsoleApplication1\nombre\Properties\AssemblyInfo.cs" />
+    <Compile Include="ConsoleApplication1\Notas\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\Notas\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\Notas\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\Notas\Program.cs" />
+    <Compile Include="ConsoleApplication1\Notas\Properties\AssemblyInfo.cs" />
+    <Compile Include="ConsoleApplication1\operadores\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\operadores\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\operadores\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\operadores\Program.cs" />
+    <Compile Include="ConsoleApplication1\operadores\Properties\AssemblyInfo.cs" />
+    <Compile Include="ConsoleApplication1\Trinagulo\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\Trinagulo\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\Trinagulo\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\Trinagulo\Program.cs" />
+    <Compile Include="ConsoleApplication1\Trinagulo\Properties\AssemblyInfo.cs" />
+    <Compile Include="ConsoleApplication1\VectoresMatrices\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="ConsoleApplication1\VectoresMatrices\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="ConsoleApplication1\VectoresMatrices\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="ConsoleApplication1\VectoresMatrices\Program.cs" />
+    <Compile Include="ConsoleApplication1\VectoresMatrices\Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ConsoleApplication1\ConsoleApplication1\obj\Debug\TempPE\" />
+    <Folder Include="ConsoleApplication1\Fibonacci\obj\Debug\TempPE\" />
+    <Folder Include="ConsoleApplication1\matris\obj\Debug\TempPE\" />
+    <Folder Include="ConsoleApplication1\nombre\obj\Debug\TempPE\" />
+    <Folder Include="ConsoleApplication1\Notas\obj\Debug\TempPE\" />
+    <Folder Include="ConsoleApplication1\operadores\obj\Debug\TempPE\" />
+    <Folder Include="ConsoleApplication1\Trinagulo\obj\Debug\TempPE\" />
+    <Folder Include="ConsoleApplication1\VectoresMatrices\obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

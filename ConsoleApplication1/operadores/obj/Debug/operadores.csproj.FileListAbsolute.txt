@@ -1,0 +1,5 @@
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\operadores\bin\Debug\operadores.exe.config
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\operadores\bin\Debug\operadores.exe
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\operadores\bin\Debug\operadores.pdb
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\operadores\obj\Debug\operadores.exe
+c:\users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\operadores\obj\Debug\operadores.pdb

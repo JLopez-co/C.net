@@ -1,0 +1,5 @@
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\nombre\bin\Debug\nombre.exe.config
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\nombre\bin\Debug\nombre.exe
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\nombre\bin\Debug\nombre.pdb
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\nombre\obj\Debug\nombre.exe
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\nombre\obj\Debug\nombre.pdb

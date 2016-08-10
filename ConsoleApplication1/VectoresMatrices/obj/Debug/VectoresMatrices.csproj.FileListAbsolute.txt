@@ -1,0 +1,6 @@
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.exe.config
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.exe
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\VectoresMatrices\bin\Debug\VectoresMatrices.pdb
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\VectoresMatrices\obj\Debug\VectoresMatrices.csprojResolveAssemblyReference.cache
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\VectoresMatrices\obj\Debug\VectoresMatrices.exe
+C:\Users\kiradoz\documents\visual studio 2015\Projects\ConsoleApplication1\VectoresMatrices\obj\Debug\VectoresMatrices.pdb

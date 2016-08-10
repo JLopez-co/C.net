@@ -1,0 +1,6 @@
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Notas\bin\Debug\Notas.exe.config
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Notas\bin\Debug\Notas.exe
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Notas\bin\Debug\Notas.pdb
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Notas\obj\Debug\Notas.csprojResolveAssemblyReference.cache
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Notas\obj\Debug\Notas.exe
+C:\Users\kiradoz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Notas\obj\Debug\Notas.pdb
