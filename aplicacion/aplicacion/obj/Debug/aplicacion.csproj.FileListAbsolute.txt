@@ -1,0 +1,10 @@
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\bin\Debug\aplicacion.exe.config
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.csprojResolveAssemblyReference.cache
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.Form1.resources
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.Cache
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.pdb
+c:\users\judini\documents\visual studio 2015\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.Desbancando.resources
